@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "title": "Coaches' Welfare Association of Gujarat",
+    "description": "CWAG - Representing the interests and welfare of sports coaches in Gujarat"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "directory": "Coach Directory",
+    "membership": "Membership",
+    "register": "Register",
+    "news": "News",
+    "events": "Events",
+    "contact": "Contact",
+    "login": "Login",
+    "joinNow": "Join Now"
+  },
+  "hero": {
+    "tagline": "Representing Sports Coaches Across Gujarat",
+    "subtitle": "A collective platform representing the interests and welfare concerns of sports coaches in Gujarat",
+    "registerBtn": "Register as Coach",
+    "learnMoreBtn": "Learn More",
+    "stats": {
+      "coaches": "Sports Coaches",
+      "districts": "Districts of Gujarat",
+      "sports": "Sports Disciplines",
+      "advocacy": "Advocacy Focus"
+    }
+  },
+  "about": {
+    "title": "About CWAG",
+    "shortTitle": "Who We Are",
+    "description": "The Coaches' Welfare Association of Gujarat (CWAG) represents the interests and welfare concerns of sports coaches in Gujarat. The association provides a collective platform for representing coaches' concerns and engaging with relevant authorities on matters affecting their professional welfare.",
+    "verified": {
+      "title": "Documented Activity",
+      "text": "In August 2024, CWAG submitted a written representation to the Director General of the Sports Authority of Gujarat, raising concerns about coaches' promotions, seniority, pension-account allocation, and group-insurance benefits.",
+      "source": "Source: Gujarat Samachar, 21 August 2024"
+    },
+    "focusAreas": {
+      "title": "Areas of Focus",
+      "items": [
+        "Representing the collective interests of sports coaches in Gujarat",
+        "Advocating for fair promotions and recognition of seniority",
+        "Raising issues concerning pension and insurance benefits",
+        "Representing coaches' service-related concerns before relevant authorities",
+        "Supporting the professional welfare and interests of coaches"
+      ],
+      "disclaimer": "These focus areas are indicated by publicly documented activities. Official objectives should be confirmed with the association."
+    },
+    "mission": {
+      "title": "Our Focus",
+      "text": "To provide a collective platform for representing the interests, welfare, and service-related concerns of sports coaches in Gujarat."
+    },
+    "vision": {
+      "title": "Our Aim",
+      "text": "A Gujarat where sports coaches receive fair recognition, timely promotions, and comprehensive welfare benefits."
+    },
+    "objectives": {
+      "title": "Key Concerns",
+      "items": [
+        "Coaches' promotions and seniority recognition",
+        "Pension scheme administration",
+        "Group insurance benefits",
+        "Service conditions and employment matters",
+        "Professional welfare and recognition"
+      ]
+    },
+    "leadership": {
+      "title": "Leadership",
+      "subtitle": "Official leadership details to be updated",
+      "disclaimer": "Current office-bearers and leadership information will be published upon verification with the association."
+    },
+    "note": {
+      "title": "Important Note",
+      "text": "This website is under development. Official registration details, founding history, leadership information, and complete organisational details are pending verification with CWAG office-bearers."
+    }
+  },
+  "membership": {
+    "title": "CWAG Membership",
+    "subtitle": "Information for sports coaches interested in joining",
+    "benefits": {
+      "title": "Potential Benefits",
+      "disclaimer": "Membership details and benefits to be confirmed with the association",
+      "items": [
+        {
+          "title": "Collective Representation",
+          "description": "Join a collective voice for coaches' welfare concerns"
+        },
+        {
+          "title": "Advocacy Support",
+          "description": "Benefit from collective advocacy on service-related matters"
+        },
+        {
+          "title": "Information Access",
+          "description": "Stay informed about service conditions and welfare issues"
+        },
+        {
+          "title": "Community Network",
+          "description": "Connect with fellow coaches across Gujarat"
+        },
+        {
+          "title": "Welfare Initiatives",
+          "description": "Access to welfare-related support and guidance"
+        },
+        {
+          "title": "Professional Support",
+          "description": "Support on promotions, pensions, and service matters"
+        }
+      ]
+    },
+    "categories": {
+      "title": "Membership Information",
+      "text": "Membership categories, fees, and eligibility criteria to be confirmed with the association.",
+      "coach": "Sports Coach",
+      "retired": "Retired Coach",
+      "associate": "Associate Member",
+      "institutional": "Institutional Member"
+    },
+    "cta": "Contact for Membership Information"
+  },
+  "directory": {
+    "title": "Coach Directory",
+    "subtitle": "Directory functionality - pending official data",
+    "searchPlaceholder": "Search by name, sport, or district...",
+    "disclaimer": "This directory will be populated with verified coach information upon receiving official data from CWAG.",
+    "filters": {
+      "district": "District",
+      "sport": "Sport",
+      "all": "All"
+    },
+    "profile": {
+      "experience": "Experience",
+      "qualification": "Qualification",
+      "location": "Location",
+      "sport": "Sport",
+      "viewProfile": "View Profile"
+    },
+    "noResults": "Coach directory is awaiting official data from the association"
+  },
+  "registration": {
+    "title": "Coach Registration",
+    "subtitle": "Express your interest in joining CWAG",
+    "disclaimer": "This is a preliminary registration form. Official membership procedures to be confirmed with the association.",
+    "form": {
+      "personalInfo": "Personal Information",
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "dateOfBirth": "Date of Birth",
+      "gender": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other",
+      "address": "Address",
+      "district": "District",
+      "city": "City/Town",
+      "pincode": "PIN Code",
+      "professionalInfo": "Professional Information",
+      "sport": "Primary Sport",
+      "experience": "Years of Experience",
+      "qualification": "Highest Coaching Qualification",
+      "currentRole": "Current Position/Role",
+      "academy": "Academy/Institution (if any)",
+      "achievements": "Notable Achievements (optional)",
+      "documents": "Supporting Documents",
+      "idProof": "ID Proof",
+      "certifications": "Coaching Certifications",
+      "photo": "Passport Size Photo",
+      "submit": "Submit Interest",
+      "submitting": "Submitting..."
+    },
+    "success": {
+      "title": "Interest Registered",
+      "message": "Thank you for expressing interest in CWAG. Official membership procedures will be communicated once confirmed."
+    },
+    "note": "This is a prototype form. For official registration, please contact the association directly."
+  },
+  "news": {
+    "title": "News & Updates",
+    "subtitle": "Verified news and documented activities",
+    "readMore": "Read More",
+    "latestNews": "Latest News",
+    "viewAll": "View All",
+    "verified": {
+      "title": "CWAG Raises Coaches' Concerns with SAG",
+      "date": "21 August 2024",
+      "summary": "The Coaches' Welfare Association of Gujarat submitted a written representation to the Director General of the Sports Authority of Gujarat, raising concerns about 113 coaches' delayed promotions, pending pension-account allocation, and group-insurance benefits.",
+      "source": "Gujarat Samachar",
+      "sourceUrl": "https://english.gujaratsamachar.com/news/gujarat/gujarat-coaches-protest-delay-in-promotions-demand-action-from-sag-15163641624"
+    }
+  },
+  "events": {
+    "title": "Events & Activities",
+    "subtitle": "Association activities and events",
+    "upcoming": "Upcoming",
+    "past": "Past Activities",
+    "register": "Register Interest",
+    "details": "View Details",
+    "date": "Date",
+    "venue": "Venue",
+    "time": "Time",
+    "disclaimer": "Event schedule and activities to be updated with official information from the association."
+  },
+  "contact": {
+    "title": "Contact CWAG",
+    "subtitle": "Get in touch with the association",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Availability"
+    },
+    "disclaimer": "Official contact details pending verification. For immediate enquiries, coaches may contact the Sports Authority of Gujarat.",
+    "sagContact": {
+      "title": "Sports Authority of Gujarat",
+      "description": "For government sports schemes and official matters",
+      "website": "https://khelmahakumbh.gujarat.gov.in",
+      "note": "Note: SAG is a separate government body, not affiliated with CWAG"
+    },
+    "social": "Official Channels"
+  },
+  "districts": {
+    "title": "Serving Gujarat's Coaches",
+    "subtitle": "Representing coaches across the state",
+    "count": "33 Districts of Gujarat"
+  },
+  "sports": {
+    "title": "Sports Disciplines",
+    "subtitle": "Coaches across various sports disciplines in Gujarat",
+    "categories": [
+      "Athletics",
+      "Badminton",
+      "Basketball",
+      "Boxing",
+      "Cricket",
+      "Cycling",
+      "Fencing",
+      "Football",
+      "Gymnastics",
+      "Hockey",
+      "Kabaddi",
+      "Kho-Kho",
+      "Swimming",
+      "Table Tennis",
+      "Tennis",
+      "Volleyball",
+      "Wrestling",
+      "Yoga"
+    ]
+  },
+  "cta": {
+    "joinCommunity": "Connect with CWAG",
+    "joinText": "Join fellow sports coaches in advocating for welfare, fair promotions, and professional recognition across Gujarat.",
+    "registerNow": "Register Interest",
+    "contactUs": "Contact Us"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "resources": "Resources",
+    "governmentSchemes": "Government Resources",
+    "usefulLinks": "Useful Links",
+    "followUs": "Updates",
+    "copyright": "© 2024 Coaches' Welfare Association of Gujarat",
+    "disclaimer": "This website is under development. Some information is pending verification with association office-bearers.",
+    "sagNote": "Note: CWAG is independent of the Sports Authority of Gujarat (SAG)"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "years": "years",
+    "pendingVerification": "Pending official verification",
+    "underDevelopment": "This section is under development"
+  },
+  "language": {
+    "switch": "ગુજરાતી",
+    "current": "English"
+  }
+}
